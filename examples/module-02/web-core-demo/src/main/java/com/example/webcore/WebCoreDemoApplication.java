@@ -1,0 +1,12 @@
+package com.example.webcore;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WebCoreDemoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(WebCoreDemoApplication.class, args);
+    }
+}
